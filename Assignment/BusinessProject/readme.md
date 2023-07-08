@@ -29,4 +29,4 @@ Using the clustered column chart, the expenses in branch D and C does not affect
 9.	Should the Business enterprise be bought? With reasons.
 Yes, Because there is high surge of profit in both quarters especially in quarter 2, and there’s no losses as seen in (Report on branches based on expenses and sales) because in all branches the sales are more than the expenses which makes me conclude there is little to zero loss.
 ---
-For more Detailed Information and Analysis, Please refer to the complete report. For any assistance, correction or questions please contact the author at +347037747802. Dayyabu Abdulrazak
+For more Detailed Information and Analysis, Please refer to the complete report. For any assistance, correction or questions please contact [Dayyabu Abdulrazak](https://www.linkedin.com/in/dayyabu-abdulrazak)
